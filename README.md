@@ -3,7 +3,7 @@
         <tr>
             <td colspan="2" valign="top">
                 <img
-                    src="https://github-readme-activity-graph.cyclic.app/graph?username=wirlly8888&theme=react-dark&hide_border=true" />
+                    src="https://github-readme-activity-graph.vercel.app/graph?username=wirlly8888&theme=react-dark" />
             </td>
         </tr>
         <tr>
